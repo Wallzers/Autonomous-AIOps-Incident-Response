@@ -1,0 +1,5 @@
+{
+  "cpu": [10, 8, 6, 5],
+  "uptime": 0,
+  "health_check": "FAIL"
+}

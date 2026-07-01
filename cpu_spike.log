@@ -1,0 +1,5 @@
+INFO Deployment version v2.3 started
+INFO Deployment completed successfully
+WARN Response latency increased
+WARN CPU usage exceeded 92%
+ERROR Request timeout errors rising

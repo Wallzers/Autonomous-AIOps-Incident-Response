@@ -1,0 +1,4 @@
+INFO  auth-service started
+ERROR auth-service Process terminated unexpectedly
+ERROR auth-service Connection refused
+ERROR auth-service Health check failed
